@@ -1,4 +1,4 @@
 # Hello-World
 Basic programming
-Hi ALl
+Hi ALL
 This is Debjani Bhattacharjee
